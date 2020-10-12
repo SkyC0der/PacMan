@@ -3,7 +3,7 @@
 }
 
 body {
-  background: url('background.jpg') no-repeat center center fixed;
+  background: url('/background.9e15dd99.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -164,3 +164,5 @@ body {
     );
   }
 }
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */

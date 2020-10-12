@@ -1,8 +1,8 @@
 ## Vanilla JS Pacman
 
-The files for the Youtube tutorial on creating a Vanilla JS Pacman game by Weibenfalk.
+A Retro Pacman game built with Vanilla JS
 
-### How to
+### How to Use
 
-Navigate inside the folder marked with "Start Here" and run ```npm install```
+Navigate inside the folder and run ```npm install```
 Then type ```npm start``` to start up the dev. server. 
